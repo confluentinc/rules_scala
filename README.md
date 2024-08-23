@@ -1,6 +1,7 @@
 # Scala Rules for Bazel
 [![Build status](https://badge.buildkite.com/90ce5244556df74db805a3c24a703fb87458396f9e1ddd687e.svg?branch=master)](https://buildkite.com/bazel/scala-rules-scala-postsubmit) 
 
+
 ## Where to get help
  - [#scala @ Bazel Slack](https://bazelbuild.slack.com/archives/CDCKJ2KFZ)
  - [Google group](https://groups.google.com/u/1/g/bazel-scala)
