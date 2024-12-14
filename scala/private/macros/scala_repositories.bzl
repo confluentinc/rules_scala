@@ -104,9 +104,9 @@ def rules_scala_setup(scala_compiler_srcjar = None):
         http_archive(
             name = "rules_java",
             urls = [
-                "https://github.com/bazelbuild/rules_java/releases/download/8.5.1/rules_java-8.5.1.tar.gz",
+                "https://github.com/bazelbuild/rules_java/releases/download/8.6.2/rules_java-8.6.2.tar.gz",
             ],
-            sha256 = "1389206b2208c5f33a05dd96e51715b0855c480c082b7bb4889a8e07fcff536c",
+            sha256 = "a64ab04616e76a448c2c2d8165d836f0d2fb0906200d0b7c7376f46dd62e59cc",
         )
 
     if not native.existing_rule("rules_proto"):
